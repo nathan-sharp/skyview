@@ -16,7 +16,9 @@
 		"@astrojs/mdx": "4.3.12",
 		"@astrojs/rss": "4.0.14",
 		"@astrojs/sitemap": "3.6.0",
+		"@atproto/api": "^0.13.25",
 		"astro": "5.16.2",
+		"hls.js": "^1.5.17",
 		"typescript": "5.9.3"
 	},
 	"devDependencies": {
